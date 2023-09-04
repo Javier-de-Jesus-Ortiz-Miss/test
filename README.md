@@ -1,4 +1,4 @@
-# test
+# Python
 
 ```python
 dict = {
@@ -6,7 +6,7 @@ dict = {
     'gusto' : "Fortnite",
     'le_gujsta_programar' : "Afirmativo"
 }
-
 print(dict['nombre'])
 
 ```
+[Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=7s&ab_channel=RickAstley)
